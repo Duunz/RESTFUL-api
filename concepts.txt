@@ -1,0 +1,18 @@
+Concepts about REST API:
+- REST (Representational State Transfer) is an architectural style for designing web services.
+- It utilizes standard HTTP operations (GET, POST, PUT, DELETE) to perform actions on resources.
+- Resources are entities or data that are manipulated through the API.
+- RESTful APIs follow principles such as statelessness, uniform interface, and client-server architecture.
+
+Concepts about Node.js:
+- Node.js is a runtime environment for executing JavaScript code outside the browser.
+- It enables server-side JavaScript execution, extending the language beyond the client.
+- Built on the V8 engine from Google Chrome, Node.js provides a non-blocking, event-driven architecture.
+- Node Package Manager (NPM) is commonly used to manage packages and dependencies in Node.js projects.
+
+Concepts about Express:
+- Express.js is a web application framework for Node.js.
+- It simplifies the process of building web applications and APIs.
+- Express facilitates route handling, middleware usage, and handling of HTTP requests and responses.
+- Middleware functions in Express enhance the functionality by processing requests or modifying responses.
+
